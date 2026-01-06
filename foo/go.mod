@@ -1,4 +1,4 @@
-module github.com/fpersson/mylib/foo
+module github.com/fpersson/mygolib/foo
 
 go 1.25.5
 
