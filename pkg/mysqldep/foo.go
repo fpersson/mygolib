@@ -1,4 +1,4 @@
-package foo
+package mysqldep
 
 import (
 	"database/sql"
